@@ -1,0 +1,25 @@
+                        *{
+							margin:0px;
+							padding:0px;
+						
+						}						
+						.reg{
+                            margin: 0 auto;
+                            width:955px
+                        }
+                        #myTableDiv{
+                                width:60%;
+                        }
+                        
+                        #msg{
+                                width: 100%;
+                        }
+
+                        .red{
+                                border: 1px solid #f00;
+                        }
+                        
+                        .green{
+                                border: 1px solid #b6ff00;
+                        }
+                
